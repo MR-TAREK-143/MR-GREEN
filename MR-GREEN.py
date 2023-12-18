@@ -6,4 +6,4 @@
 
 import os
 import TAREK
-TAREK.loging.()
+TAREK.loging()
